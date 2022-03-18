@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Leonardo Leon's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Leonardo Leon
+Computer Vision & Machine Learning Engineer, Atos Brazil.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lleonv@uni.pe">lleonv@uni.pe</a>
+| <a href="https://leo2105.github.io/mywebsite/">My website</a>
 </div>
 
 
