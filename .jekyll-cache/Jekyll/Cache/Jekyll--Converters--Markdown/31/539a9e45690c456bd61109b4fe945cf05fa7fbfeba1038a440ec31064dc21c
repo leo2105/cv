@@ -1,9 +1,9 @@
-I"t	<h1 id="leonardo-leon">Leonardo Leon</h1>
-<p>Computer Vision, Machine Learning Engineer, Atos Brazil.</p>
+I"<h1 id="leonardo-leon">Leonardo Leon</h1>
+<p>Computer Vision &amp; Machine Learning Engineer, Atos Brazil.</p>
 
 <div id="webaddress">
 <a href="lleonv@uni.pe">lleonv@uni.pe</a>
-| <a href="https://leo2105.github.io/mywebsite/">My wikipedia page</a>
+| <a href="https://leo2105.github.io/mywebsite/">My website</a>
 </div>
 
 <h2 id="currently">Currently</h2>
@@ -20,21 +20,18 @@
 
 <h2 id="education">Education</h2>
 
-<p><code class="language-plaintext highlighter-rouge">1654-1660</code>
-<strong>The King’s School, Grantham.</strong></p>
-
-<p><code class="language-plaintext highlighter-rouge">June 1661 - now</code>
-<strong>Trinity College, Cambridge</strong></p>
+<p><code class="language-plaintext highlighter-rouge">2019-Present</code>
+<strong>Pontifical Catholic University of Parana (PUCPR)</strong></p>
 
 <ul>
-  <li>Sizar</li>
+  <li>Master in Informatics</li>
 </ul>
 
-<p><code class="language-plaintext highlighter-rouge">1667 - death</code>
-<strong>Trinity College, Cambridge</strong></p>
+<p><code class="language-plaintext highlighter-rouge">2013 - 2019</code>
+<strong>Universidad Nacional de Ingenieria</strong></p>
 
 <ul>
-  <li>Fellow</li>
+  <li>Bachelor of Computer Science</li>
 </ul>
 
 <h2 id="awards">Awards</h2>
@@ -48,17 +45,21 @@ President, <em>Royal Society</em>, London, UK</p>
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-<h3 id="journals">Journals</h3>
+<h3 id="papers">Papers</h3>
 
-<p><code class="language-plaintext highlighter-rouge">1669</code>
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.</p>
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<strong>Car Monitoring System in Apartment Garages by Small Autonomous Car using Deep Learning</strong></p>
+<ul>
+  <li>5th International Conference on Information Management and Big Data - SimBig 2018</li>
+  <li><code class="language-plaintext highlighter-rouge">Lima</code></li>
+</ul>
 
 <p><code class="language-plaintext highlighter-rouge">1669</code>
 Lectiones opticæ.</p>
 
 <p>etc. etc. etc.</p>
 
-<h3 id="patents">Patents</h3>
+<h3 id="posters">Posters</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2012</code>
 Infinitesimal calculus for solutions to physics problems, <a href="http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml">SMBC</a> patent 001</p>
@@ -76,8 +77,27 @@ Infinitesimal calculus for solutions to physics problems, <a href="http://www.te
 <p><code class="language-plaintext highlighter-rouge">1600</code>
 <strong>Lucasian professor of Mathematics</strong>, Cambridge University</p>
 
-<!-- ### Footer
+<h2 id="communication-skills">Communication Skills</h2>
 
-Last updated: May 2013 -->
+<h3 id="spanish">Spanish</h3>
 
+<p>Mother language</p>
+
+<h3 id="english">English</h3>
+
+<p>Advance level</p>
+
+<h3 id="portuguese">Portuguese</h3>
+
+<p>Advance level</p>
+
+<h2 id="computer-skills">Computer Skills</h2>
+
+<h3 id="good-level">Good level</h3>
+
+<p>C++, Python, Tensorflow, Keras, OpenCV, Docker, Bash, NVIDIA TAO, Airflow, MLFlow, DVC, Jetson, Raspberry, Linux</p>
+
+<h3 id="basic-level">Basic level</h3>
+
+<p>R, C, SQL, MATLAB, Java, Wolfram Language, Caffe, PyTorch, NVIDIA Deepstream, Arduino, Git</p>
 :ET

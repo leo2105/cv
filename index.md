@@ -27,19 +27,16 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-Present`
+__Pontifical Catholic University of Parana (PUCPR)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master in Informatics
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2013 - 2019`
+__Universidad Nacional de Ingenieria__
 
-- Fellow
-
+- Bachelor of Computer Science
 
 
 ## Awards
@@ -55,37 +52,52 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Papers
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+__Car Monitoring System in Apartment Garages by Small Autonomous Car using Deep Learning__
+- 5th International Conference on Information Management and Big Data - SimBig 2018
+- `Lima, Peru`
 
-`1669`
-Lectiones opticæ.
 
-etc. etc. etc.
+### Posters
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2018`
+__System to Monitor Vehicles in Apartment’s Garage by Small Autonomous Car using Deep Learning and Beacons__
+- LatinX in AI Workshop co-located with 32th NeurIPS
+- `Quebec, Canada`
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`June 2021-Present`
+__Atos__
 
-- Warden
-- Minted coins
+- Developing Computer Vision projects using MLOps tools in a Big Data team.
+- `Brazil`
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Abril 2019-December 2021`
+__Computer Vision and Machine Learning Engineer__, Zupa
 
+## Communication Skills
 
+### Spanish
 
-<!-- ### Footer
+Mother language
 
-Last updated: May 2013 -->
+### English
 
+Advance level
 
+### Portuguese
+
+Advance level
+
+## Computer Skills
+
+### Good level
+
+C++, Python, Tensorflow, Keras, OpenCV, Docker, Bash, NVIDIA TAO, Airflow, MLFlow, DVC, Jetson, Raspberry, Linux
+
+### Basic level
+
+R, C, SQL, MATLAB, Java, Wolfram Language, Caffe, PyTorch, NVIDIA Deepstream, Arduino, Git
