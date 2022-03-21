@@ -13,17 +13,16 @@ Computer Vision & Machine Learning Engineer, Atos Brazil.
 
 ## Currently
 
-Standing on the shoulders of giants
+Peruavian passionate for vanguardist technologies. I am responsible, respectful, autodidact, proactive and always motivated. I propose goals based on results and I always set goals that allow me to exceed my limits. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Developing image recognition applications in Embedded and On-premise devices.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Machine Learning, Computer Vision, Data Science, Deep Learning, MLOps.
 
 ## Education
 
@@ -59,6 +58,18 @@ __Car Monitoring System in Apartment Garages by Small Autonomous Car using Deep 
 - 5th International Conference on Information Management and Big Data - SimBig 2018
 - `Lima, Peru`
 
+### Projects
+
+`April 2018 - December 2018`
+__Car Monitoring System by Mini-Robot using Artificial Intelligence in Underground garage__
+
+As lider of project, we built an small autonomous car using NVIDIA TX1, Arduino and cameras. Deep Learning was used for image-based self-driving in underground garage, cars detection and license plate recognition. And, using Beacon sensors for Triangulation Based Localization of parking lots.
+
+`May - November 2018`
+__Small Autonomous Vehicle For IEEE LARC Competition__
+
+As lider of the project, we developed an small autonomous ground vehicle for the LARC IEEE OPEN 2018. Using turtlebot burger modifying its hardware and software to pick up, drop down and carry little steel boxes to specific areas.
+
 
 ### Posters
 
@@ -70,13 +81,31 @@ __System to Monitor Vehicles in Apartment’s Garage by Small Autonomous Car usi
 ## Occupation
 
 `June 2021-Present`
-__Atos__
+__Atos__, Brazil
 
+*Computer Vision Engineer*
 - Developing Computer Vision projects using MLOps tools in a Big Data team.
-- `Brazil`
 
 `Abril 2019-December 2021`
-__Computer Vision and Machine Learning Engineer__, Zupa
+__Zupa__, Brazil
+
+*Computer Vision and Machine Learning Engineer*
+
+- Leading and developing projects of Machine Learning and Computer Vision for Education, Retail, Ergonomics 4.0 using open source Deep Learning frameworks (Keras, Pytorch and Darknet) from collecting data to deployment with API. In other one for a PUC university we implemented a face expression, gaze estimation and people recognition system in order to measure attention and students’ emotions in a classroom. Using keras and opencv.
+
+`August 2018-March 2019`
+__MDP Consulting__, Peru
+
+*IT Consultant*
+
+- Implementation of computer vision system using face detection, tracking and recognition of MDP employees using a Raspberry Pi 3, Intel NCS Movidius and Pi Camera opening an electric door of the offices when a worker is identified.
+
+`January 2015-March 2019`
+__Laboratory of Big Data and HPC, CTIC-UNI__, Peru
+
+*Researcher*
+
+Researching and developing deep learning architectures for computer vision (object detection) tasks for autonomous driving.
 
 ## Communication Skills
 
